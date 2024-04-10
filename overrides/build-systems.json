@@ -8,6 +8,9 @@
   "aardwolf": [
     "setuptools"
   ],
+  "depthai-sdk": [
+    "setuptools"
+  ],
   "abodepy": [
     "setuptools",
     "setuptools-scm"
